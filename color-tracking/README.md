@@ -19,7 +19,7 @@ color-tracking/
 ### Setup Instructions:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/color-tracking.git
+   git clone https://github.com/nischalaremanda/Tracking-based-on-Color-OpenCV
    cd color-tracking
    ```
 
@@ -81,5 +81,5 @@ color-tracking/
 - Nischal Aremanda
 
 ### Feedback:
-- For any issues or suggestions, please contact - 
+- For any issues or suggestions, please contact - https://github.com/nischalaremanda
 ---
